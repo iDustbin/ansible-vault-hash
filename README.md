@@ -1,6 +1,6 @@
 # ansible-vault-hash
 
-https://app.travis-ci.com/iDustbin/ansible-vault-hash.svg?branch=master
+[![Build Status](https://app.travis-ci.com/iDustbin/ansible-vault-hash.svg?branch=master)](https://app.travis-ci.com/iDustbin/ansible-vault-hash)
 
 Python Script to generate hashed Passwords for Ansible-Vault Files
 
