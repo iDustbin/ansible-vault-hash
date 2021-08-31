@@ -8,7 +8,7 @@ Python Script to generate hashed Passwords for Ansible-Vault Files
 pip3 install -r requirements.txt
 ```
 
-### Compiles and hot-reloads for development
+## Run Script
 ```
 python3 hash.py
 ```
