@@ -1,2 +1,2 @@
-- passlib.hash
+- passlib
 - pytest
