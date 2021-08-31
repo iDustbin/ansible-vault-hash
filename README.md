@@ -1,9 +1,14 @@
 # ansible-vault-hash
 
-Python Script to generate hashed Password for Ansible-Vault Files
+Python Script to generate hashed Passwords for Ansible-Vault Files
 
 ## Installation Manual
 
-1.) pip3 install -r requirements.txt
+```
+pip3 install -r requirements.txt
+```
 
-2.) python3 hash.py
+### Compiles and hot-reloads for development
+```
+python3 hash.py
+```
